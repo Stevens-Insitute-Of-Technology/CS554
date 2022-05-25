@@ -1,0 +1,20 @@
+{
+  "name": "gulati_siddharth",
+  "version": "1.0.0",
+  "description": "Solution to Lab - 2 for CS 554",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Siddharth Gulati 10468179",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "express": "^4.14.1",
+    "flat": "^2.0.1",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2",
+    "axios": "^0.21.4"
+  }
+}
