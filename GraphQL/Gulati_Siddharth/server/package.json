@@ -1,0 +1,21 @@
+{
+  "name": "binterest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Siddharth Gulati 10468179",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+    "axios": "^0.23.0",
+    "bluebird": "^3.4.7",
+    "graphql": "^15.0.0",
+    "node-redis": "^0.1.7",
+    "redis": "^3.0.2",
+    "uuid": "^8.3.2"
+  }
+}
